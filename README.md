@@ -1,8 +1,6 @@
 # CPR for All
 
 <img src="./images/CPR for All Logo.png" width="30%"><img src="./images/Cornell Tech Logo.png" width="30%"><img src="./images/Weill Cornell Medicine Logo.png" width="30%">
-<img src="./images/Pakistan Life Savers Programme Logo.jpg" width="30%">
-
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -15,6 +13,9 @@
 - [References](#references)
 
 ## Project Overview
+
+<img src="./images/Pakistan Life Savers Programme Logo.png" width="30%">
+
 CPR for All is an initiative aimed at providing affordable and accessible CPR (Cardiopulmonary Resuscitation) training to low-resource regions, with a primary focus on Pakistan. This project leverages digital fabrication techniques and user-centered design to create a low-cost CPR training model that offers immediate feedback on chest compression depth and rate. Our goal is to support organizations like the Pakistan Life Saver's Program (PLSP) in their mission to train school children and the general public in CPR, ultimately improving access to emergency medical services.
 
 ## Abstract
