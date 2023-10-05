@@ -2,6 +2,8 @@
 
 ![CPR for All Logo]("./images/CPR for All Logo.png")
 
+<img src="./images/CPR for All Logo.png" width="50%">
+
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Abstract](#abstract)
