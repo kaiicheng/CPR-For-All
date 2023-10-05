@@ -1,9 +1,7 @@
 # CPR for All
 
-<img src="./images/CPR for All Logo.png" width="30%">
-<img src="./images/Cornell Tech Logo.png" width="30%">
-<img src="./images/Weill Cornell Medicine Logo.png" width="30%">
-<img src="./images/Pakistan Life Savers Programme Logo.JPG" width="30%">
+<img src="./images/CPR for All Logo.png" width="30%"><img src="./images/Cornell Tech Logo.png" width="30%"><img src="./images/Weill Cornell Medicine Logo.png" width="30%">
+<img src="./images/Pakistan Life Savers Programme Logo.jpg" width="30%">
 
 
 ## Table of Contents
