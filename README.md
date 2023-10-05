@@ -1,7 +1,6 @@
 # CPR for All
 
-![CPR for All Logo](./images/CPR for All Logo.png)
-
+![CPR for All Logo]("./images/CPR for All Logo.png")
 
 ## Table of Contents
 - [Project Overview](#project-overview)
