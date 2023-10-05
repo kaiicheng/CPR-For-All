@@ -1,8 +1,10 @@
 # CPR for All
 
-![CPR for All Logo]("./images/CPR for All Logo.png")
+<img src="./images/CPR for All Logo.png" width="30%">
+<img src="./images/Cornell Tech Logo.png" width="30%">
+<img src="./images/Weill Cornell Medicine.png" width="30%">
+<img src="./images/Pakistan Life Savers Programme Logo.JPG" width="30%">
 
-<img src="./images/CPR for All Logo.png" width="50%">
 
 ## Table of Contents
 - [Project Overview](#project-overview)
