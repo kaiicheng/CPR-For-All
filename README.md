@@ -3,7 +3,7 @@
 <img src="./images/CPR for All Logo.png" width="30%"><img src="./images/Cornell Tech Logo.png" width="30%"><img src="./images/Weill Cornell Medicine Logo.png" width="30%">
 
 <img src="./images/Arduino 1.png" width="30%">&nbsp &nbsp &nbsp &nbsp<img src="./images/CPR Model 4.jpg" width="30%">
-<!-- <img src="./images/Arduino 1.png" style="width: 30%; margin-right: 20px; display: inline-block; vertical-align: top;"><img src="./images/CPR Model 4.jpg" style="width: 30%; display: inline-block; vertical-align: top;"> -->
+<img src="./images/Arduino 1.png" width="30%" style="display: inline-block; margin-right: 20px;"/><img src="./images/CPR Model 4.jpg" width="30%" style="display: inline-block;"/>
 
 
 
