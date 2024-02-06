@@ -2,7 +2,7 @@
 
 <img src="./images/CPR for All Logo.png" width="30%"><img src="./images/Cornell Tech Logo.png" width="30%"><img src="./images/Weill Cornell Medicine Logo.png" width="30%">
 
-<img src="./images/Arduino 1.png" width="30%"><img src="./images/CPR Model 4.jpg" width="30%"><img src="./images/CPR Model 1.gif" width="30%">
+<img src="./images/Arduino 1.png" width="30%"><img src="./images/CPR Model 4.jpg" width="30%"><img src="./images/CPR Model 5.jpg" width="30%">
 
 ## Table of Contents
 - [Project Overview](#project-overview)
