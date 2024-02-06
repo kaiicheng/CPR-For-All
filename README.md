@@ -3,7 +3,7 @@
 <img src="./images/CPR for All Logo.png" width="30%"><img src="./images/Cornell Tech Logo.png" width="30%"><img src="./images/Weill Cornell Medicine Logo.png" width="30%">
 
 <div align="center">
-    <img src="./images/Arduino 1.png" width="30%"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/CPR Model 4.jpg" width="30%"/>
+    <img src="./images/Arduino 1.png" width="30%"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/CPR Model 4.jpg" width="25%"/>
 </div>
 
 ## Table of Contents
