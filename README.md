@@ -3,7 +3,8 @@
 <img src="./images/CPR for All Logo.png" width="30%"><img src="./images/Cornell Tech Logo.png" width="30%"><img src="./images/Weill Cornell Medicine Logo.png" width="30%">
 
 <!-- <img src="./images/Arduino 1.png" width="30%"><br><br><br><br><img src="./images/CPR Model 4.jpg" width="30%"> -->
-<span><img src="./images/Arduino 1.png" style="width: 30%;"></span><span style="margin-left: 20px;"><img src="./images/CPR Model 4.jpg" style="width: 30%;"></span>
+<img src="./images/Arduino 1.png" style="width: 30%; display: inline-block;">
+<img src="./images/CPR Model 4.jpg" style="width: 30%; display: inline-block;">
 
 
 ## Table of Contents
