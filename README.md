@@ -1,4 +1,4 @@
-<img src="./images/ISAM Poster.png" width="30%">
+<img src="./images/ISAM Poster.png" width="100%">
 
 # CPR for All
 
