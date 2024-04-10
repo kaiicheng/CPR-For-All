@@ -1,10 +1,11 @@
-<img src="./images/ISAM Poster.png" width="100%">
-
 # CPR for All
 
 <img src="./images/CPR for All Logo.png" width="30%"><img src="./images/Cornell Tech Logo.png" width="30%"><img src="./images/Weill Cornell Medicine Logo.png" width="30%">
 
 <!-- <img src="./images/Arduino 1.png" width="30%"/><img src="./images/CPR Model 4.jpg" width="25%"/> -->
+
+# Accepted by for 2023 International Symposium on Academic Makerspaces (ISAM)
+<img src="./images/ISAM Poster.png" width="100%">
 
 ## Table of Contents
 - [Project Overview](#project-overview)
