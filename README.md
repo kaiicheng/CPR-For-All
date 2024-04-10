@@ -4,7 +4,7 @@
 
 <!-- <img src="./images/Arduino 1.png" width="30%"/><img src="./images/CPR Model 4.jpg" width="25%"/> -->
 
-## Accepted by for 2023 International Symposium on Academic Makerspaces
+## Accepted by 2023 International Symposium on Academic Makerspaces
 <img src="./images/ISAM Poster.png" width="100%">
 
 ## Table of Contents
